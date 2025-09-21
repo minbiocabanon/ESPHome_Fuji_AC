@@ -1,0 +1,176 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+@5 .placement_layer
+
+#
+#Component attribute text strings
+#
+&0 bottom_layer
+
+# CMP 0
+CMP 7 19.50000164 10.44999942 270 N D101 MMBZ27VAL-7-F ;0=1,1=0.0000,5=0
+PRP ComponentLink1Description 'https://www.mouser.fr/datasheet/2/115/DIOD_S_A0012799209_1-2543783.pdf'
+PRP Diode_Type 'TVS'
+PRP Life_Status 'Active'
+PRP Manufacturer_Part_Number 'MMBZ27VAL-7-F'
+PRP Mounting_Type 'CMS'
+PRP Voltage_Rating '27V'
+TOP 0 17.50000056 9.49999878 270 N 0 1 1
+TOP 1 17.50000056 11.40000006 270 N 11 6 2
+TOP 2 19.50000164 10.44999942 270 N 12 22 3
+#
+# CMP 1
+CMP 0 15.74999898 7.74999974 90 N C110 220pF ;0=1,1=0.0000,5=0
+PRP Manufacturer_Part_Number 'CAPA_CMS_220pF_50V_0603_10%_X7R'
+PRP Mounting_Type 'CMS'
+PRP Tolerance '10%'
+TOP 0 15.74999898 8.44999834 180 N 11 8 1
+TOP 1 15.74999898 7.04999606 180 N 12 18 2
+#
+# CMP 2
+CMP 10 11.99999886 5.7500012 90 N U101 MCP2025-330E-SN ;0=1,1=0.0000,5=0
+PRP Component_Type 'TRANSCEIVER'
+PRP ComponentLink1Description 'https://ww1.microchip.com/downloads/en/DeviceDoc/20002306B.pdf'
+PRP Life_Status 'Active'
+PRP Manufacturer 'Microchip'
+PRP Manufacturer_Part_Number 'MCP2025-330E/SN'
+PRP Mounting_Type 'CMS'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '579-MCP2025-330E/SN'
+TOP 0 10.09499886 8.45000088 90 N 14 14 1
+TOP 1 11.36499886 8.45000088 90 N 16 6 2
+TOP 2 12.63499886 8.45000088 90 N 12 21 3
+TOP 3 13.90499886 8.45000088 90 N 11 7 4
+TOP 4 13.90499886 3.05000152 90 N 5 5 5
+TOP 5 12.63499886 3.05000152 90 N 4 5 6
+TOP 6 11.36499886 3.05000152 90 N 1 5 7
+TOP 7 10.09499886 3.05000152 90 N 16 5 8
+#
+# CMP 3
+CMP 12 2.10000088 12.3000008 270 N TP101 5V_BUCK ;0=1,1=0.0000,5=0
+PRP Component_Type 'TEST_POINT'
+PRP Manufacturer 'OPENINDUS'
+PRP Manufacturer_Part_Number 'PTEST'
+PRP Mounting_Type 'NONE'
+TOP 0 2.10000088 12.3000008 270 N 15 13 1
+#
+# CMP 4
+CMP 12 6.5999995 13.2999988 270 N TP100 5V_BUCK ;0=1,1=0.0000,5=0
+PRP Component_Type 'TEST_POINT'
+PRP Manufacturer 'OPENINDUS'
+PRP Manufacturer_Part_Number 'PTEST'
+PRP Mounting_Type 'NONE'
+TOP 0 6.5999995 13.2999988 270 N 14 10 1
+#
+# CMP 5
+CMP 1 6.6999993 1.79999894 180 N R105 30K1 ;0=1,1=0.0000,5=0
+PRP Manufacturer_Part_Number 'RES_CMS_30K1_1/10W_0603_1%'
+PRP Mounting_Type 'CMS'
+PRP Tolerance '1%'
+TOP 0 6.00008198 1.79991766 90 N 1 6 1
+TOP 1 7.40008426 1.79991766 90 N 16 7 2
+#
+# CMP 6
+CMP 1 1.58670752 14.42980858 90 N R101 330 ;0=1,1=0.0000,5=0
+PRP Manufacturer_Part_Number 'RES_CMS_330_1/10W_0603_5%'
+PRP Mounting_Type 'CMS'
+PRP Tolerance '5%'
+TOP 0 1.58662624 15.1297259 180 N 6 3 1
+TOP 1 1.58662624 13.72972362 180 N 15 10 2
+#
+# CMP 7
+CMP 3 4.33654962 14.17980908 90 N R100 1K5 ;0=1,1=0.0000,5=0
+PRP Manufacturer_Part_Number 'RES_CMS_1K5_1/8W_0805_0.1%'
+PRP Mounting_Type 'CMS'
+PRP Tolerance '0.1%'
+TOP 0 4.33654962 15.2048083 90 N 7 2 1
+TOP 1 4.33654962 13.15480986 90 N 14 11 2
+#
+# CMP 8
+CMP 5 11.99999886 18.6000009 0 N J100 691805010303 ;0=1,1=0.0000,5=0
+PRP ComponentLink1Description 'https://www.we-online.com/components/products/datasheet/691805010303.pdf'
+PRP Connector_Type 'BORNIER'
+PRP Life_Status 'Active'
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '691805010303'
+PRP Mounting_Type 'CMS'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '710-691805010303'
+TOP 0 9.75299802 13.34799972 90 N 13 3 1
+TOP 1 12.2529981 13.34799972 90 N 12 5 2
+TOP 2 14.75299818 13.34799972 90 N 11 5 3
+TOP 3 9.75299802 22.3479995 90 N 0 0 4
+TOP 4 12.2529981 22.3479995 90 N 0 3 5
+TOP 5 14.75299818 22.3479995 90 N 0 2 6
+TOP 6 7.25299794 19.64799982 90 N 12 8 MP1
+TOP 7 17.25299826 19.64799982 90 N 12 7 MP2
+#
+# CMP 9
+CMP 9 1.81154832 19.42980874 270 N D103 APT3216LZGCK ;0=1,1=0.0000,5=0
+PRP Color 'Green'
+PRP ComponentLink1Description 'https://www.kingbrightusa.com/images/catalog/SPEC/APT3216LZGCK.pdf'
+PRP Life_Status 'Active'
+PRP Light_Intensity '100mcd'
+PRP Manufacturer 'Kingbright'
+PRP Manufacturer_Part_Number 'APT3216LZGCK'
+PRP Mounting_Type 'CMS'
+PRP Nominal_Current '20mA'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '604-APT3216LZGCK'
+TOP 0 1.81154832 17.55480868 270 N 6 2 1
+TOP 1 1.81154832 21.3048088 270 N 12 20 2
+#
+# CMP 10
+CMP 9 4.3615483 19.42980874 270 N D102 APT3216LZGCK ;0=1,1=0.0000,5=0
+PRP Color 'Green'
+PRP ComponentLink1Description 'https://www.kingbrightusa.com/images/catalog/SPEC/APT3216LZGCK.pdf'
+PRP Life_Status 'Active'
+PRP Light_Intensity '100mcd'
+PRP Manufacturer 'Kingbright'
+PRP Manufacturer_Part_Number 'APT3216LZGCK'
+PRP Mounting_Type 'CMS'
+PRP Nominal_Current '20mA'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '604-APT3216LZGCK'
+TOP 0 4.3615483 17.55480868 270 N 7 3 1
+TOP 1 4.3615483 21.3048088 270 N 12 16 2
+#
+# CMP 11
+CMP 0 2.30000048 10.19999992 90 N C109 100nF ;0=1,1=0.0000,5=0
+PRP Manufacturer_Part_Number 'CAPA_CMS_100nF_50V_0603_5%_X7R'
+PRP Mounting_Type 'CMS'
+PRP Tolerance '5%'
+TOP 0 2.30000048 10.89999852 180 N 15 11 1
+TOP 1 2.30000048 9.49999624 180 N 12 15 2
+#
+# CMP 12
+CMP 2 6.7999991 3.60000042 0 N C108 22uF ;0=1,1=0.0000,5=0
+PRP Manufacturer_Part_Number 'CAPA_CMS_22uF_16V_0805_10%_X5R'
+PRP Mounting_Type 'CMS'
+PRP Tolerance '10%'
+TOP 0 7.82499832 3.60000042 180 N 16 8 1
+TOP 1 5.77499988 3.60000042 180 N 12 23 2
+#
+# CMP 13
+CMP 2 5.7500012 7.25000074 90 N C107 22uF ;0=1,1=0.0000,5=0
+PRP Manufacturer_Part_Number 'CAPA_CMS_22uF_16V_0805_10%_X5R'
+PRP Mounting_Type 'CMS'
+PRP Tolerance '10%'
+TOP 0 5.7500012 8.27499996 90 N 14 9 1
+TOP 1 5.7500012 6.22500152 90 N 12 17 2
+#
+# CMP 14
+CMP 2 7.99999924 7.25000074 90 N C106 22uF ;0=1,1=0.0000,5=0
+PRP Manufacturer_Part_Number 'CAPA_CMS_22uF_16V_0805_10%_X5R'
+PRP Mounting_Type 'CMS'
+PRP Tolerance '10%'
+TOP 0 7.99999924 8.27499996 90 N 14 8 1
+TOP 1 7.99999924 6.22500152 90 N 12 19 2
+#

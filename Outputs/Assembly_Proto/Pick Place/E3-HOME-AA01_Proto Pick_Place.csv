@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+C:\Users\julien.caulier\Documents\Personnel\ESPHome_Fuji_AC\Outputs\Assembly_Proto\Pick Place\E3-HOME-AA01_Proto Pick_Place.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/09/25
+Time:       22:06
+Revision:   60633f14a8be1e187abeb083e9b62a90f1b10d85
+Variant:    Proto
+Units used: mm
+
+"Manufacturer Part Number","Designator","Center-X(mm)","Center-Y(mm)","Rotation","Description","Layer"
+"TSM-105-01-F-SV","J102","19,5710","9,3830","90","Header male SMD 1x5","TopLayer"
+"MMBZ27VAL-7-F","D101","18,5000","10,4500","90","Suppresseurs ESD / diodes TVS 27V 225mW","BottomLayer"
+"CAPA_CMS_220pF_50V_0603_10%_X7R","C110","15,7500","7,7500","270","220pF_50V_0603_10%_X7R","BottomLayer"
+"SRN5040TA-6R8M","L100","17,7500","21,2500","0","Inductance fixes 6.8uH 2.5A","TopLayer"
+"MCP2025-330E/SN","U101","12,0000","5,7500","270","LIN Transceiver with Voltage Regulator SOIC 3.3V","BottomLayer"
+"AP63300WU-7","U100","11,4500","20,4500","0","Régulateurs de tension de commutation DCDC Conv HV Buck TSOT26 T&R 3K","TopLayer"
+"RES_CMS_0_1/10W_0603_1%","R106","13,9999","3,2501","90","0_1/10W_0603_1%","TopLayer"
+"RES_CMS_30K1_1/10W_0603_1%","R105","6,7001","1,7999","0","30K1_1/10W_0603_1%","BottomLayer"
+"RES_CMS_0_1/10W_0603_1%","R104","12,2499","3,2501","90","0_1/10W_0603_1%","TopLayer"
+"RES_CMS_30K1_1/10W_0603_1%","R103","10,5999","22,7999","180","30K1_1/10W_0603_1%","TopLayer"
+"RES_CMS_158K_1/16W_0603_1%","R102","8,2501","20,9999","270","158K_1/16W_0603_1%","TopLayer"
+"RES_CMS_330_1/10W_0603_5%","R101","1,5866","14,4297","270","330_1/10W_0603_5%","BottomLayer"
+"RES_CMS_1K5_1/8W_0805_0.1%","R100","4,3366","14,1798","270","1K5_1/8W_0805_0.1%","BottomLayer"
+"TSM-104-01-L-SV-P-TR","J101","4,2460","8,0180","90","Header male SMD 1x4","TopLayer"
+"691805010303","J100","12,2530","17,8480","180","WR-TBL Series 8050 - 3 pins 2.50 mm Screwless SMT","BottomLayer"
+"APT3216LZGCK","D103","1,8116","19,4298","90","LED CMS Green 3.2x1.6mm","BottomLayer"
+"APT3216LZGCK","D102","4,3616","19,4298","90","LED CMS Green 3.2x1.6mm","BottomLayer"
+"B340A-13-F","D100","3,5000","18,2500","270","Diodes et redresseurs Schottky 40V 3A","TopLayer"
+"CAPA_CMS_100nF_50V_0603_5%_X7R","C109","2,3000","10,2000","270","100nF_50V_0603_5%_X7R","BottomLayer"
+"CAPA_CMS_22uF_16V_0805_10%_X5R","C108","6,8000","3,6000","180","22uF_16V_0805_10%_X5R","BottomLayer"
+"CAPA_CMS_22uF_16V_0805_10%_X5R","C107","5,7500","7,2500","270","22uF_16V_0805_10%_X5R","BottomLayer"
+"CAPA_CMS_22uF_16V_0805_10%_X5R","C106","8,0000","7,2500","270","22uF_16V_0805_10%_X5R","BottomLayer"
+"CAPA_CMS_22uF_16V_0805_10%_X5R","C105","15,5000","17,7500","180","22uF_16V_0805_10%_X5R","TopLayer"
+"CAPA_CMS_22uF_16V_0805_10%_X5R","C104","15,5000","15,5000","180","22uF_16V_0805_10%_X5R","TopLayer"
+"CAPA_CMS_47pF_50V_0603_5%_X7R","C103","6,7000","21,0000","90","47pF_50V_0603_5%_X7R","TopLayer"
+"CAPA_CMS_100nF_50V_0603_5%_X7R","C102","11,2500","18,0500","0","100nF_50V_0603_5%_X7R","TopLayer"
+"CAPA_CMS_10uF_50V_1206_10%_X7R","C101","10,0001","15,5001","0","10uF_50V_1206_10%_X7R","TopLayer"
+"CAPA_CMS_100nF_50V_0603_5%_X7R","C100","13,5000","22,8000","0","100nF_50V_0603_5%_X7R","TopLayer"
