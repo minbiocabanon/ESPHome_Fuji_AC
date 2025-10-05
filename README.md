@@ -11,6 +11,23 @@ Totaly inspired by FOSV [Fuji Atom Interface](https://github.com/FOSV/Fuji-Atom-
 Design tools
 - Altium Designer 25.8
 
+### What does it looks like ?
+
+<img src="Documentation/img/PCB_ESPHome_FujiAC_1.jpg" alt="PCBA top side" width="200"/>
+<img src="Documentation/img/PCB_ESPHome_FujiAC_3.jpg" alt="PCBA top side" width="200"/>
+
+<img src="Documentation/img/PCB_M5Stack_ATOM.jpg" alt="PCBA top side" width="200"/>
+<img src="Documentation/img/PCB_M5Stack_ATOM3.jpg" alt="PCBA top side" width="200"/>
+
+<img src="Documentation/img/PCB_wired_M5Stack_ATOM3.jpg" alt="PCBA top side" width="200"/>
+<img src="Documentation/img/PCB_wired_M5Stack_ATOM2.jpg" alt="PCBA top side" width="200"/>
+
+
+
+
+
+
+
 ## Software
 
 This board can run Omniflux repo [esphome-fujitsu-halcyon](https://github.com/Omniflux/esphome-fujitsu-halcyon)
