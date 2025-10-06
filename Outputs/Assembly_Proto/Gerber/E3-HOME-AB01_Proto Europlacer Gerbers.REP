@@ -1,0 +1,88 @@
+*************************************************************
+FileName = E3-HOME-AB01_Proto Europlacer Gerbers.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Paste
+      File : E3-HOME-AB01_Proto Europlacer Gerbers.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : E3-HOME-AB01_Proto Europlacer Gerbers.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Board Shape
+      File : E3-HOME-AB01_Proto Europlacer Gerbers.GM1
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : E3-HOME-AB01_Proto Europlacer Gerbers.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : E3-HOME-AB01_Proto Europlacer Gerbers.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
