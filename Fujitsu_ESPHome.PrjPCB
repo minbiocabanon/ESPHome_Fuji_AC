@@ -297,50 +297,54 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=VersionRevision
-Value=AA01
+Name=
+Value=
 
 [Parameter2]
+Name=VersionRevision
+Value=AB01
+
+[Parameter3]
 Name=StencilReference
 Value==StencilIdentifier+'-'+PartNumber+'-'+VersionRevision
 
-[Parameter3]
+[Parameter4]
 Name=StencilIdentifier
 Value=E9
 
-[Parameter4]
+[Parameter5]
 Name=Project
 Value=AF-HOME-001
 
-[Parameter5]
+[Parameter6]
 Name=PCBReference
 Value==PCBIdentifier+'-'+PartNumber+'-'+VersionRevision
 
-[Parameter6]
+[Parameter7]
 Name=PCBIdentifier
 Value=E7
 
-[Parameter7]
+[Parameter8]
 Name=PartNumber
 Value=HOME
 
-[Parameter8]
+[Parameter9]
 Name=Engineer
 Value=Minbiocabanon
 
-[Parameter9]
+[Parameter10]
 Name=Company
 Value=(c) 2025 Minbiocabanon Corp.
 
-[Parameter10]
+[Parameter11]
 Name=BoardReference
 Value==BoardIdentifier+'-'+PartNumber+'-'+VersionRevision
 
-[Parameter11]
+[Parameter12]
 Name=BoardIdentifier
 Value=E3
 
-[Parameter12]
+[Parameter13]
 Name=BoardDescription
 Value=Fujitsu ESP Home
 
@@ -1641,36 +1645,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=MathWorks
-OutputName15=MathWorks (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Orcad v7 Capture Design
-OutputName16=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD ASCII
-OutputName17=P-CAD ASCII (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=P-CAD V16 Schematic Design
-OutputName18=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
